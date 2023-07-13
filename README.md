@@ -12,8 +12,8 @@
 - [english-app.py](https://github.com/thegreatartem/english-web-app/blob/master/english-app.py) - это то приложение, которое должно было обрабатывать текст и генерировать упражнения. Но там выдает ошибку.
 
 - [Little Red Riding Hood. Charles Perrault](https://github.com/thegreatartem/english-web-app/blob/master/Little_Red_Riding_Hood_Charles_Perrault.txt)
-- Источник: Andrew Lang, The Blue Fairy Book, 5th edition
-- London: Longmans, Green, and Company, 1891
+Источник: Andrew Lang, The Blue Fairy Book, 5th edition
+London: Longmans, Green, and Company, 1891
 
 English-web-app
 

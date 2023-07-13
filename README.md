@@ -1,5 +1,8 @@
 # english-web-app
 
+![Frame 1](https://github.com/thegreatartem/english-web-app/assets/39244593/014f778c-c90d-46ab-b17d-3407ccec94e9)
+
+
 [english.py](https://github.com/thegreatartem/english-web-app/blob/master/english.py) - класс с приложением на английском. Есть функции с созданием датафрейма и упражнений.
 [example.ipynb](https://github.com/thegreatartem/english-web-app/blob/master/example.ipynb) - пример работы датафрейма и класса EnglishEx
 [example-web-app.py](https://github.com/thegreatartem/english-web-app/blob/master/example-web-app.py) - прототип приложения, но там без генерации. Уже готовые упражнения.

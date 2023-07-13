@@ -1,7 +1,7 @@
 import streamlit as st
 from PIL import Image
-from streamlit_tags import st_tags, st_tags_sidebar
-from streamlit_jina import jina
+#from streamlit_tags import st_tags, st_tags_sidebar
+#from streamlit_jina import jina
 import pandas as pd
 from english import EnglishEx
 from io import StringIO
